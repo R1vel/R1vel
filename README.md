@@ -2,4 +2,4 @@
 
 I like programming 💻
 
-![orange](./amoir.jpg)
+![orange](./gif.gif)
