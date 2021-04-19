@@ -1,5 +1,5 @@
 ### Hello world👋
 
-I like programming 💻!\
+I like programming 💻
 
 ![orange](./amoir.jpg)
