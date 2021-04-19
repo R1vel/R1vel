@@ -1,2 +1,2 @@
 # hello-world
-![Test](./armoir.jpg)
+![img](./amoir.jpg)
