@@ -1,2 +1,5 @@
-# hello-world
-![img](./amoir.jpg)
+### Hello world👋
+
+I like programming 💻!\
+
+![orange](./amoir.jpg)
